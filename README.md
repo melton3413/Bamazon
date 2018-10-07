@@ -1,6 +1,9 @@
 # Bamazon
 Create an Amazon-like store front using Node.js and MySQL.
 
+## Screenshot
+![image](https://user-images.githubusercontent.com/25229836/46587996-d2f9eb80-ca62-11e8-9621-c64e3c65e7af.png)
+
 ## Getting Started
 
 - Clone repo.
